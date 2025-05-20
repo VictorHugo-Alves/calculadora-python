@@ -2,7 +2,7 @@
 
 Projeto de calculadora em Python com operações básicas, uso de funções `lambda` e tratamento de erros. Desenvolvido como desafio prático no curso de Fundamentos de Python para Data Science.
 
-## 📚 Funcionalidades
+## Funcionalidades
 
 - Adição
 - Subtração
